@@ -1,0 +1,2 @@
+@extends("membermainpage")
+@section("content")
